@@ -47,3 +47,7 @@ eloX_pre and ratingX_pre trendlines (per team? per something else? both?): deriv
 
 (eloProb vs ratingProb) compare 1,1 to 1,0 to 0,1 to 0,0
 
+Python Script (hatsForBats.py XXX.CSV or EXECL???)
+
+Per team data Vs league data
+
