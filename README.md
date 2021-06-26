@@ -4,7 +4,7 @@ Excel Data:
 
 (0)Date, (1)Team 1, (2)Team 2, (3)elo1_pre, (4)elo2_pre, (5)eloPreDiff, (6)elo_prob1, (7)elo_prob2, (8)eloProbDiff, (9)binaryEloProb1, (10)binaryEloProb2, (11)elo1_post, (12)elo2_post, (13)eloPostDiff, (14)rating1_pre, (15)rating2_pre, (16) ratingPreDiff, (17) pitcher1, (18) pitcher2, (19) pitcher1_rgs, (20)pitcher2_rgs, (21)pitcher1_adj, (22) pitcher2_adj, (23)rating_prob1, (23) rating_prob2, (24) ratingProbDiff, (25)binaryRatingProb1, (26)binaryRatingProb2, (27) rating1_post, (28) rating2_post, (29) ratingPostDiff, (30)score1, (31)score2, (32)result1, (33)result2 
 
- (0). date in mm/dd/yyyy '\n'
+ (0). date in mm/dd/yyyy
  (1). Abbreviation for home team
  (2). Abbreviation for away team
  (3). Home team's Elo rating before the game
